@@ -6,26 +6,31 @@ Analyzed the Superstore dataset using SQL to uncover insights on sales, profit, 
 🔹 **Key Business Questions Solved with SQL**
 
 **Core KPI Queries**
+
 1.  Total sales, profit, discount, and quantity across the dataset
 2.  Average sales per order
 3.  Total number of transactions (orders)
 
 **Customer & Segment Analysis**
+
 4. Customer segment generating the highest sales and profit
 5. Top 10 customers by sales (with profitability insights)
 6. Average order value per segment
 
 **Product & Category Analysis**
+
 7. Sales and profit breakdown by product category
 8. Sub-category with the highest profit margin
 9. Top 5 most profitable products
 
 **Regional & Shipping Analysis**
+
 10. Sales and profit breakdown by region
 11. Shipping mode with the highest average sales per order
 12. State contributing the most to sales
 
 **Advanced Insights**
+
 13. Yearly trend of sales and profit
 14. Percentage contribution of each category to total profit
 15. Orders with negative profit, including categories/sub-categories
