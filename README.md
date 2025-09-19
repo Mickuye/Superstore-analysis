@@ -39,10 +39,9 @@ Analyzed the Superstore dataset using SQL to uncover insights on sales, profit, 
 
 🔹 **Tools & Skills Applied**
 
-SQL: CTEs, scalar subqueries, window functions, aggregate functions
+**SQL:** CTEs, scalar subqueries, window functions, aggregate functions
+**Data Cleaning & Transformation:** handling dates, deriving Year & Month columns
+**Analytical Thinking:** interpreting raw queries into actionable business insights
+**Data Visualization Ready:** queries structured to integrate into dashboards
 
-Data Cleaning & Transformation: handling dates, deriving Year & Month columns
-
-Analytical Thinking: interpreting raw queries into actionable business insights
-
-Data Visualization Ready: queries structured to integrate into dashboards<img width="1212" height="536" alt="SuperStore Data" src="https://github.com/user-attachments/assets/d0a155b0-ac00-4315-9ef9-2a4eebafd509" />
+<img width="1212" height="536" alt="SuperStore Data" src="https://github.com/user-attachments/assets/d0a155b0-ac00-4315-9ef9-2a4eebafd509" />
