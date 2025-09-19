@@ -1,22 +1,46 @@
-# Superstore Analysis
+Superstore SQL Analytics Project
+🔹 Overview
 
-This project represents an exciting opportunity to engage in end-to-end SQL analytics using the Superstore dataset. It includes comprehensive KPI reporting, customer segmentation, and detailed evaluations of product and category performance. Furthermore, the analysis offers valuable insights into regional trends and shipping logistics, while also addressing crucial profitability and trend analyses. This initiative highlights advanced SQL techniques such as Common Table Expressions (CTEs), window functions, subqueries, and aggregation, enhancing our analytical capabilities.
+Analyzed the Superstore dataset using SQL to uncover insights on sales, profit, customer behavior, product performance, and regional trends. The project focused on building a set of business-ready queries to answer key performance questions and support dashboard reporting.
 
-## Project Overview
+🔹 Key Business Questions Solved with SQL
 
-In this project, we thoroughly explore the widely-utilized **Superstore dataset** through SQL to address essential business questions concerning sales, profits, customers, products, and shipping.
+Core KPI Queries
 
-The analysis covers several key areas of focus:
-- Key Performance Indicators: Sales, Profit, Quantity, and Discount
-- Insights into Customer Segmentation
-- Detailed Breakdown of Product and Category Performance
-- Regional Analysis and Shipping Insights
-- In-depth Trend Analysis and Contribution Evaluation
+Total sales, profit, discount, and quantity across the dataset
 
-## SQL Techniques Utilized
-- **Aggregate Functions**: SUM, AVG, COUNT, ROUND  
-- **Grouping and Filtering**: GROUP BY, HAVING, WHERE  
-- **Common Table Expressions (CTEs)**  
-- **Window Functions**: LAG(), OVER(PARTITION BY …)  
-- **Scalar Subqueries**  
-- **Joins**: INNER, CROSS  
+Average sales per order
+
+Total number of transactions (orders)
+
+Customer & Segment Analysis
+4. Customer segment generating the highest sales and profit
+5. Top 10 customers by sales (with profitability insights)
+6. Average order value per segment
+
+Product & Category Analysis
+7. Sales and profit breakdown by product category
+8. Sub-category with the highest profit margin
+9. Top 5 most profitable products
+
+Regional & Shipping Analysis
+10. Sales and profit breakdown by region
+11. Shipping mode with the highest average sales per order
+12. State contributing the most to sales
+
+Advanced Insights
+13. Yearly trend of sales and profit
+14. Percentage contribution of each category to total profit
+15. Orders with negative profit, including categories/sub-categories
+16. Month-to-month percentage change in profit
+17. Month-to-month percentage change in sales
+
+🔹 Tools & Skills Applied
+
+SQL: CTEs, scalar subqueries, window functions, aggregate functions
+
+Data Cleaning & Transformation: handling dates, deriving Year & Month columns
+
+Analytical Thinking: interpreting raw queries into actionable business insights
+
+Data Visualization Ready: queries structured to integrate into dashboards<img width="1212" height="536" alt="SuperStore Data" src="https://github.com/user-attachments/assets/d0a155b0-ac00-4315-9ef9-2a4eebafd509" />
